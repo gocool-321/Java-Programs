@@ -1,0 +1,6 @@
+Name: Karthik,Year: 3rd,Branch: CSE,Subjects Learned: Oops+Python+Maths.
+Name: Subhash,Year: 3rd,Branch: CSE,Subjects Learned: Oops+Python+Calculus.
+Name: Kamal,Year: 2nd,Branch: CSE,Subjects Learned: DBMS+Python+DAA.
+
+
+

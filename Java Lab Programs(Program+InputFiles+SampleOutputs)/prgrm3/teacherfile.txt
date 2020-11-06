@@ -1,0 +1,4 @@
+Name: Manish,Teaches: Oops+Maths+Statistics+Algorithms+Python,Branches: CSE+ECE.
+Name: Hemanth,Teaches: DBMS+Maths+Statistics+Algorithms,Branches: CSE+IT.
+Name: Anil,Teaches: Networking+Oops+Maths+C/c++,Branches: CSE.
+Name: Sharma,Teaches: DBMS+Maths+Web.Dev+Php,Branches: CSE+ECE.
